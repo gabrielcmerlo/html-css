@@ -1,0 +1,99 @@
+@charset "UTF-8";
+@font-face {
+    font-family: 'Idroid';
+    src: url('fontes/idroid.otf') format('opentype');
+    font-weight: bolder;
+   
+}
+
+body {
+    background-color: #83E1AD;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+}
+
+
+header {
+    background-image: linear-gradient(to bottom, #3DDC84, #063D1E);
+    padding: 10px;
+    margin: auto;
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+header > h1 {
+    font-weight: lighter;
+}
+
+nav {
+    background-color: #063D1E;
+    text-align: left;
+    margin: 10px -8px -8px -8px;
+}
+
+nav > a {
+    text-decoration: none;
+    color: #83E1AD;
+    font-weight: bold;
+    margin-right: 35px;
+}
+
+a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+a:active {
+    color: yellow;
+}
+
+main {
+    background-color: white;
+    color: black;
+    padding: 10px;
+    margin: 0px 350px 20px 350px;
+    text-indent: 20px;
+}
+
+h2 {
+    font-family: 'Idroid';
+    color: #063D1E;
+    text-indent: 0px;
+    font-size: 2em;
+}
+
+h3 {
+    font-family: 'Idroid';
+    color: #063D1E;
+    text-indent: 0px;
+    font-size: 1.5em;
+    background-image: linear-gradient(to right, #C5EBD6, #FFFFFF);
+}
+
+#bugdroid {
+    margin-left: 250px;
+}
+
+#video {
+    background-color: #063D1E;
+}
+
+h4 {
+    background-color: #2FA866;
+    color: white;
+    border-radius: 10px;
+    padding: 8px;
+}
+
+#lista > article {
+    background-color: #C5EBD6;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: #063D1E;
+    color: white;
+    text-align: center;
+    margin: 5px 0px -16px 0px;
+}
