@@ -3,6 +3,12 @@
 
 Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
+<style>
+    body {
+        background-color: red;
+    }
+</style>
+
 <a href="https://gabrielcmerlo.github.io/html-css/exercicios/ex001/index.html" target="_blank">Executar o exercício 001</a> 
 <br>
 <a href="https://gabrielcmerlo.github.io/html-css/exercicios/ex002/index.html" target="_blank">Executar o exercício 002</a>
